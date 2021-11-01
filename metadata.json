@@ -1,0 +1,7 @@
+{
+    "author": "kerbybit",
+    "description": "Show the price paid for unique items from the Auction House on Hypixel Skyblock\nManually set an items price with '/paid'",
+    "entry": "index.js",
+    "requires": ["PersistentData"],
+    "version": "1.1.0"
+}
